@@ -9,7 +9,7 @@
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
-    "PREFIX": {
+    "PREFIX".{
       "description": "Choose your prefix for your bot",
       "value": ".",
       "required": true
@@ -75,12 +75,12 @@
       "required": false 
     },
     "OWNER_NUMBER": {
-      "description": "Enter your number eg, 2547xxxxxxx",
+      "description": "Enter your number eg, 254794344429",
       "value": "",
       "required": false 
     },
     "STATUS_REACT_EMOJIS": {
-      "description": "Enter your auto like status emojis",
+      "description": "💚",
       "value": "💚,🚀,🌎,✅",
       "required": false 
     },
@@ -95,22 +95,22 @@
       "required": false 
     },
     "OWNER_NAME": {
-      "description": "Owner name",
+      "description": "spiffy josh",
       "value": "Ibrahim Adams",
       "required": false
     },
     "SESSION_ID": {
-      "description": "Your session ID",
+      "description": "BWM-XMD;;;H4sIAAAAAAAAA61U246qSBT9lUm9tjnKTcCkk0FEBQVRxAuTeSiguCg3iwKFE/99gnaf08mc6elJhqeiLnuvtfda+zvI8rhEC9SA0XdQ4LiGBHVL0hQIjMC4CgKEQQ/4kEAwAt4qm2gVHaH5ytIpFQYrh9leHYPepEmwjxb4jAf8VIwcSnoF9x4oKjeJvU8CDpTz+ibYS0FgLiaznJ1dqGt7v7BmL5d8caU2ut8XW+tkKl3ALiKMcZyFShGhFGGYLFBjwhh/Db4gr4vmZXk7MMXMVMcBsk/oRVd2cTubqE5p7DktW5DM3Oz0r8E/zabqsJ+dqiSSDROqRYWpgy9aB/HF2ISXLV3O9ttFdbNb9Qm/jMMM+aqPMhKT5st1n03kI6XJ5yFaG+2Gts/axLVm9bY99zV9cfacUF9Gdc3ztPo14GvbOWFWOmo0N/bbvGVUbblq9LzNrlo42fA11pR0LfYPlPIRuInftXL+L3W3pb5+letFBe2levFcqxo2/Ynq7omtmLw1MKLVItndNEfxvga/b22VdEOHtwgNSuslxSrt2kfe2dvqjF+N/ehMTEy4W7Eb/IQPSYU/Q8kky1ZZ6TR2nXUujHkvo6fthnbmfMvaprOmHMkzuGUeGFo7Px8D9XrNhakLydV0ygpZAjIZ/tQuwqHNE2a4y3xXDsPXB6MzalQfjKh7D2AUxiXBkMR51u3RA64HoF9byMOIPMoLgiYoDu3JsDc1buERL7NQztCRag74tjKSfLLF6dbUrcwbvIIeKHDuobJE/jwuSY4bHZUlDFEJRn88OtWRxijNCdJiH4wAzbG8yDIsy9Li7+W3awRJCYviW4YI6IEA56mOwIjgCvXA84EscFN+QDHTscjSDMMpDM0qAiMrFC9QktJRTJ9Jt3GKSgLTAowonqMZShQY+t77f3BInMRy0pgZSgw/GEvCmB2yw+lAYHiBn9BT8XMcHHv/swcydCNPHXfVZ6geCGJcEjuriiSH/rvI3w+h5+VVRqwm8+RugTAYfdhGhMRZWHbMqgxiL4prJHc8wCiASYl+NBxh5L9zeRticu4/dDjlpdl2QoEOexfob7UZUb8oTwa728Aq4iBoftPyMgI9kDzeUhQvUgNmwA85ihO57nl3cP8Bu8viIwLjpAQjIC+DDX85KsoyXTWePptJSijJoQR+0ny3z1OeVuFe6l0cDiYpde27c6Oc46k0JVN7E7GzfGguvJRlJFU9la+/CAJGILVJoDn8dRGQObU0J7mRQttLLU5iIkO5TaQW90uWW7M3z4v7+wVn+FyTsJGv7idaU4t14L6k83Er2NWZ8uiIqm54Ir122XxUxx76mKzeK+2xWrDRySBuyhzNPrtK6ps14SsyPQhKQNYCfYKH89GmxD7fOpfCgPxlzR1KdXkdni6SZ83FUoqVnF6WtSDri2O0fhr7MViSt4Eev1kufvwGMXrMx7dG/WtDn8A73Q3uvQ8x3ibuP0ytsX3ZDzF1zA2JI55J31p3PLytx+5mpxzR+LI6NZlWGVdZVnlw7wxQJJAEOU7BCJSpC0EP4LzqVKxmQf5JJlmyVVl60k5gSaSfzviF2SjuecvEeTGHZdQN2I3oMGIn80YqCotA8m40IHXfdG2D+1+LUkyokwgAAA==",
       "value": "",
       "required": true
     },    
     "STARTING_BOT_MESSAGE": {
-      "description": "Enable starting message (yes/no)",
+      "description": "yes",
       "value": "yes",
       "required": true
     },
     "PRESENCE": {
-      "description": "Presence mode: 1=online, 2=typing, 3=recording",
+      "description"=recording",
       "value": "",
       "required": false
     },
